@@ -17,3 +17,6 @@ This script goes with the Query-Fxns script below. It is an example of how you c
 
 ### Query-Fxns.R
 These functions should be sourced into the Query-Example.R script. They filter the data and, for quantitative filers, display a plot that shows the filtered versus non-filtered data to quickly check that it worked correctly. 
+
+### Miscellaneous
+I spent a good couple of years of searching on and off trying to find an easy way to plot a Robinson projection map in ggplot. Finally found one that seems to work well, in case you're interested too: https://gist.github.com/valentinitnelav/065af8eba2d9455d9407e5d3890f6f86.
