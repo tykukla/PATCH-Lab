@@ -1,5 +1,5 @@
 # PATCH-Lab
-Code and data associated with The PATCH Lab web portal
+Code and data associated with The PATCH Lab web portal.
 
 ## Introduction
 This readme steps through what is contained in each script and what is needed to run them.
